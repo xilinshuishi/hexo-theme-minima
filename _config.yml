@@ -11,10 +11,9 @@ desc: ""
 
 #menu
 menu:
-  工作: /work
-  生活: /life
-  学习: /study
-  其他: /other
+  技术: /categories/tech
+  生活: /categories/life
+  笔记: /categories/notes
 
 #index/main page max show posts (in number)
 max_post: 8
