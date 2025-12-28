@@ -1,0 +1,4 @@
+/* 隐藏搜索栏 */
+.row.mt-2:has(#search-text){
+  display:none!important;
+}
