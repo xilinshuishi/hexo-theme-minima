@@ -1,21 +1,23 @@
 #title in header
-title: "Hi Folks."
+title: "Newtime's Blog"
 
 #main info
 #owner
-owner: "I am Adi Sakti Jrs"
-email: test@test.test
-info: "A student and web developer from Indonesia 🇮🇩"
+owner: "Newtime"
+email: newtime@anche.no
+info: "记录生活，分享思考，在数字世界留下痕迹"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: ""
 
 #menu
 menu:
-  Works: /Works
-  About: /About
+  工作: /work
+  生活: /life
+  学习: /study
+  其他: /other
 
 #index/main page max show posts (in number)
-max_post: 4
+max_post: 8
 
 # Colors use hex color without #
 # Theme color
